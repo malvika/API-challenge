@@ -2546,7 +2546,7 @@ plt.show()
 ```
 
 
-![png](output_7_0.png)
+![png](Latitude_vs_Temperature.png)
 
 
 
@@ -2562,7 +2562,7 @@ plt.show()
 ```
 
 
-![png](output_8_0.png)
+![png](Latitude_vs_Humiditiy.png)
 
 
 
@@ -2578,7 +2578,7 @@ plt.show()
 ```
 
 
-![png](output_9_0.png)
+![png](Latitude_vs_Cloudiness.png)
 
 
 
@@ -2594,4 +2594,4 @@ plt.show()
 ```
 
 
-![png](output_10_0.png)
+![png](Latitude_vs_Cloudiness.png)
