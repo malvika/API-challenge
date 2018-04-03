@@ -1,7 +1,7 @@
-###Analysis
-#Temperatures on average tend to be higher with latitudes and that closer to the equator
-#Humidity on average tends to be higher with latitudes closer the equator and higher in the south
-#There is no correlation between the cloudiness and the distance 
+# Analysis
+### 1.  Temperatures on average tend to be higher with latitudes that are closer to the equator
+### 2.  Humidity on average tends to be higher with latitudes  that are closer the equator
+### 3.  There is no correlation between the cloudiness and the distance
 
 ```python
 # Dependencies
